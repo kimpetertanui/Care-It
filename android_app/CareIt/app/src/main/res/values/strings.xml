@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Care-it</string>
+    <string name="chose_image">Chose Image</string>
+    <string name="sign_up"><u>Don\'t Have Account? Sign Up</u></string>
+    <string name="instruction">Kindly upload an image of the damaged device or the device you would like installed in your residence and add a description</string>
+    <string name="location">Enter Your Location</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="upload_item">Upload Item</string>
+    <string name="your_history">Your History List</string>
+    <string name="add_new_item">Add New Item</string>
+    <string name="your_history_not_availbale">"No Data For Your  Repair History "</string>
+    <string name="submit">Submit</string>
+    <string name="already_have_an_account">Already Have An Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="tech">Technician LogIn</string>
+    <string name="your_history_request">Jobs Queue</string>
+    <string name="your_queue_history_not_availbale">No Data For your Jobs Queue</string>
+    <string name="item_name">Hp Computer</string>
+    <string name="item_location">Nairobi West</string>
+    <string name="item_description">Discover a broad category of genuine HP Core i5 laptops online in Kenya. Enjoy the lowest prices when you shop on Jumia Kenya. Pay on delivery</string>
+    <string name="contact_owner">Contact Owner</string>
+    <string name="welcome">Welcome</string>
+</resources>
